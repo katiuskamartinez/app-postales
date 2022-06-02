@@ -135,6 +135,8 @@ h2 {
   color: white;
   font-size: 18px;
   font-weight: 700;
+  margin-top: 5px;
+  margin-left: 5px;
 }
 @keyframes cambio {
   0% {
